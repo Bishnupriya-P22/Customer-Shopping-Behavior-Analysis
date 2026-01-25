@@ -18,7 +18,7 @@ Standardized categorical fields such as gender, product category, and payment me
 Formatted date fields for monthly and yearly trend analysis
 Created calculated KPIs such as total sales, average order value, and customer count
 
-## Dashboard Features
+## 📊  Dashboard Features
 
 KPI cards for total revenue, total customers, and average spending
 Interactive slicers for gender, age group, product category, and time period
