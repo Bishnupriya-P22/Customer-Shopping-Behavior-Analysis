@@ -1,16 +1,16 @@
 # Customer-Shopping-Behavior-Analysis
-##🔹 Project Overview
+## Project Overview
 
 This project focuses on analyzing customer shopping behavior to understand purchasing patterns, spending trends, product preferences, and customer demographics. The dashboard helps identify key insights that support data-driven business decisions and improve marketing and sales strategies.
 
-##🔹 Tools & Technologies Used
+## Tools & Technologies Used
 
 Microsoft Excel – Data cleaning, analysis, and dashboard creation
 Pivot Tables & Charts – Data summarization and visualization
 Excel Formulas – KPI calculations and metrics
 Slicers – Interactive filtering by customer and product attributes
 
-##🔹 Data Preparation
+## Data Preparation
 
 Removed duplicate and inconsistent records
 Handled missing values for accurate analysis
@@ -18,7 +18,7 @@ Standardized categorical fields such as gender, product category, and payment me
 Formatted date fields for monthly and yearly trend analysis
 Created calculated KPIs such as total sales, average order value, and customer count
 
-##🔹 Dashboard Features
+## Dashboard Features
 
 KPI cards for total revenue, total customers, and average spending
 Interactive slicers for gender, age group, product category, and time period
